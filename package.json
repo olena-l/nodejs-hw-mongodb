@@ -21,17 +21,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/olena-l/hw2-mongodb.git"
+    "url": "git+https://github.com/olena-l/nodejs-hw-mongodb.git"
   },
   "bugs": {
-    "url": "https://github.com/olena-l/hw2-mongodb/issues"
+    "url": "https://github.com/olena-l/nodejs-hw-mongodb/issues"
   },
-  "homepage": "https://github.com/olena-l/hw2-mongodb#readme",
+  "homepage": "https://github.com/olena-l/nodejs-hw-mongodb#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^17.2.1",
     "express": "^5.1.0",
-    "mongoose": "^8.17.0",
+    "http-errors": "^2.0.0",
+    "mongoose": "^8.17.1",
     "pino": "^9.7.0",
     "pino-http": "^10.5.0"
   }
